@@ -26,7 +26,7 @@ export default function Component() {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-pink-100 to-pink-200 p-8 flex items-center justify-center">
+    <div className="min-h-screen bg-gradient-to-br from-pink-100 to-pink-200 p-8 flex items-center justify-center font-sans">
       <Card className="w-full max-w-2xl bg-white shadow-xl">
         <CardHeader className="bg-pink-400 text-white">
           <CardTitle className="text-3xl font-bold text-center">Layla Vargas</CardTitle>
